@@ -1,0 +1,10 @@
+Pedir para o usuario a temperatura = temperatura
+Pedir ao usuario se a temperatura digitada foi em Celsius ou Fahrenheit = C_ou_F
+
+Se C_ou_F = 'Fahrenheit':
+	Celsius = 5 * (temperatura-32) / 9
+	Imprima na tela ("A conversão de Fahrenheit para Celsius foi de",Celsius )
+Se C_ou_F = 'Celsius':
+	temperatura = 5 * (Fahrenheit-32) / 9
+	Imprima na tela ("A conversao de Celsius para Fahrenheit foi de", Fahrenheit)
+	
