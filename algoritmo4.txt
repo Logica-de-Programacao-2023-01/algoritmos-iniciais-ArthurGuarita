@@ -1,0 +1,13 @@
+Algoritmo - Fatorial
+
+1. Peça ao usuario digitar um número = (numero)
+2. 
+Defina -- i = 2		(Variaveis de controle)
+Defina -- fatorial = 1  
+
+3. Enquanto (while) i <= numero:
+	
+	Faça -- fatorial = fatorial * i (Mudança/adição de valor nas variáveis)
+	Faça -- i = i + 1
+
+4. Imprima na tela o resultado
