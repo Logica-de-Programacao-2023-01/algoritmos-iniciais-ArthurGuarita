@@ -1,0 +1,9 @@
+Algoritmo - Area de um triangulo
+
+1. Peça ao usuário o valor da base do triangulo e armazene o valor na var (base)
+
+2. Peça ao usuário o valor da altura do trangulo e armazene o valor na var (altura)
+
+3. Crie a var (area) e faça area = base * altura / 2
+
+4. Imprima na tela o resultado armazenado na variavel area

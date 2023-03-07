@@ -1,0 +1,15 @@
+M = C . (1 + i)^t
+
+Algoritmo - Juros Compostos
+
+1. Peça os dados de entrada ao usuário: 
+	capital inicial; --  var  capital
+	taxa; (porcentagem) -- var taxa
+	cobrado em dias, anos ou meses; -- var dma
+	tempo. -- var tempo
+
+2. Converta a taxa de porcentagem para decimal (taxa / 100)e armazene o valor na var Taxa decimal
+
+3. Faça montante = capital * (1 + taxaDecimal) ** tempo
+
+4. Imprima o resultado na tela ("O montante após X dma é R$.")

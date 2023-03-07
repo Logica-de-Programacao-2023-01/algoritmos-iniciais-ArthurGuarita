@@ -1,0 +1,9 @@
+Algoritmo - Potência
+
+1. Peça ao usuário um número  =  (num)
+
+2. Peça ao usuário o expoente da potência  =  (pot)
+
+3. Faça PotenciaFinal = num ** pot
+
+4. Imprima o valor PotenciaFinal na tela

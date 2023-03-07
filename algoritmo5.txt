@@ -1,0 +1,14 @@
+Algoritmo - Lista linear
+
+1. Faça uma lista
+2. Pergunte ao usuário qual o valor que deve ser encontrado
+
+3. Para cada elemento na lista: (Compare os elementos com a lista)
+
+	Se o elemento da lista for igual ao numero a ser encontrado:
+		Imprima na tela que o valor foi encontrado na lista
+		Termine o programa (break)
+	Se elemento da lista for diferente ao numero a ser encontrado:
+		Compare o numero com outro elemento da lista
+	Se não:
+		Imprima na tela que o valor não está na lista
