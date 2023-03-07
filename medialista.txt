@@ -1,0 +1,9 @@
+1. Pedir ao usuario uma lista de X numeros
+2. Perguntar quantos números foram digitados = n
+soma = 0
+
+#Calcular a media
+
+3. Adicionar cada número da lista a variavel soma
+4. Calcular a media = soma / n
+5. Imprimir na tela a variavel media
