@@ -1,0 +1,20 @@
+Algoritmo - Média Ponderada
+
+--------------------------------------------------------------------------------------------------------------------------
+1. Pedir ao usuário para digitar os valores em uma lista_de_numeros separados por espaço e separar esses valores na lista. (.split)
+
+2. Pedir ao usuário para digitar os pesos em uma lista_de_pesos separados por espaço e separar esses valores na lista. (.split)
+
+3. Se a quantidade de valores da lista_de_numeros for diferente (!=) da quantidade dos pesos da lista_de_pesos:
+	3.1. Imprima na tela "As listas devem ter o mesmo tamanho".
+	3.2. Encerre o programa.
+
+4. Se não:
+	4.1. Defina uma var soma_produto = 0
+	4.2. Defina uma var soma_peso = 0
+	4.3. Para cada indice na lista_de_numeros:
+		4.3.1: Faça a soma_produto = soma_produto + (os indices da lista_de_numeros * os indices da lista_de_pesos).
+		4.3.2. Faça a soma dos pesos na lista_de_pesos.
+
+	4.4. Faça a mediaPonderada = soma_produto / soma_peso.
+	4.5. Imprima na tela o resultado da mediaPonderada.
